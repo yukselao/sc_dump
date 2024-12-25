@@ -204,8 +204,6 @@ def main():
     }
     sc=scops(scLogin)
     iplist=sc.getIpSummaryOutput()
-    logging.info("Total IPs: {}".format(len(iplist)))
-    logging.info(args.target in iplist)
     # Create data list for DataFrame
     data_list = []
     
