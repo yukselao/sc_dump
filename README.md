@@ -3,7 +3,8 @@
 
 ## Introduction:
 
--
+This project has been developed to query IP address-based vulnerabilities in the dataset available in the Tenable Security Center. The results are saved to an Excel file.
+
 ## Prepare .env file first:
 
 Create a file named .env. This file contains access information related to the Security Center environment you will be working on. To activate the definitions in the file, you must run the source .env command after each change.
@@ -32,3 +33,4 @@ pip3 install -r requirements.txt
 
 ## Support
 This project is provided as open-source for your use. You cannot receive official support from Tenable regarding this project. For any questions or bug reports, you can open an issue on GitHub.
+
