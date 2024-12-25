@@ -1,0 +1,16 @@
+.env
+.venv/
+.idea/
+nessus-scan-results/
+.DS_Store
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.py3
+*.py3o
+*.py3d
+*.py3w
+*.py3z
