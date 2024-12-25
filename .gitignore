@@ -14,3 +14,4 @@ nessus-scan-results/
 *.py3d
 *.py3w
 *.py3z
+*.xlsx
